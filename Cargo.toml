@@ -1,6 +1,6 @@
 [package]
 name = "liminal-jf-relations"
-version = "0.0.0"
+version = "0.1.0"
 edition = "2021"
 authors = ["Cardinal"]
 documentation = "https://docs.rs/?"
@@ -8,7 +8,7 @@ homepage = "https://alephzero.org"
 license = "Apache-2.0"
 categories = ["cryptography"]
 keywords = ["cryptography", "snark", "zero-knowledge", "liminal", "shielder"]
-repository = "https://github.com/Cardinal-Cryptography/aleph-node"
+repository = "https://github.com/Cardinal-Cryptography/liminal-jf-relations"
 description = "A collection of jellyfish-based relations for use in liminal."
 
 [dependencies]
